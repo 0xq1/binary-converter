@@ -11,7 +11,7 @@ git clone https://github.com/0xq1/binary-converter.git
 
 cd DirBuster
 
-python dirbuster.py
+python3 dirbuster.py
 ```
 ### IG:
 - [L.s4y](instagram.com/l.s54y)
