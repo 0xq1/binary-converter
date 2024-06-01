@@ -9,9 +9,9 @@
 ```bash
 git clone https://github.com/0xq1/binary-converter.git
 
-cd DirBuster
+cd binary-converter
 
-python3 dirbuster.py
+python3 binary-converter.py
 ```
 ### IG:
 - [L.s4y](instagram.com/l.s54y)
